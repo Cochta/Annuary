@@ -12,4 +12,4 @@ You need [Visual Studio 2022](https://visualstudio.microsoft.com/downloads/)
 
 ## Visual Studio 2022
 
-Start by opening [Poker solution](./Poker.sln).
+Start by opening [Annuary solution](./Annuary.sln).
